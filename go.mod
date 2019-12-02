@@ -1,3 +1,4 @@
-module github.com/go-prj-test/submodules
+module github.com/hungryTechBoy/go-prj-test
+
 
 go 1.13
